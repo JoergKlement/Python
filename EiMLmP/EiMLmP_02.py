@@ -5,7 +5,7 @@ Created on Thu Oct 26 12:24:42 2017
 @author: di30409
 """
 #Importiere Module
-#import collections
+import collections
 import numpy as np
 import pandas as pd
 from IPython.display import Image
